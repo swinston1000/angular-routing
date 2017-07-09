@@ -4,10 +4,10 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "@uirouter/angularjs": "^1.0.5",
     "angular": "^1.6.5",
-    "angular-ui-router": "^1.0.3",
     "bootstrap": "^3.3.7",
-    "express": "^4.15.3",
+    "express": "^4.15.3"
   },
   "devDependencies": {},
   "scripts": {
